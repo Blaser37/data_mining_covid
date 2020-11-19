@@ -18,7 +18,7 @@ library(crosstalk)
 library(ggpubr)
 ```
 
-covid <- read.csv("C:/Users/judel/Desktop/WORK/B3/Time Series/csv_time_series/covid-data.csv", header=T)
+covid <- read.csv("covid-data.csv", header=T)
 
 
 
