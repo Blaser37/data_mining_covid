@@ -1,2 +1,2 @@
 # data_mining_covid
-#online interactive graphs on cyclicality of the COVID-19
+## online interactive graphs on cyclicality of the COVID-19
